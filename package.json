@@ -1,0 +1,22 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syndacks/node-note-taking.git"
+  },
+  "author": "syndacks militance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syndacks/node-note-taking/issues"
+  },
+  "homepage": "https://github.com/syndacks/node-note-taking#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
